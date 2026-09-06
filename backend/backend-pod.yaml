@@ -9,4 +9,4 @@ spec:
     - name: backend
       image: kalyanidhobare24/easycrud1-jenkins:backend
       ports:
-        - containerPort: 8080
+        - containerPort: 80
